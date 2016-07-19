@@ -75,6 +75,7 @@ public class TableCreator {
                     result.add(str);
                    
                 }
+                h=h+newRow.size();
                 for (String str: newRow)
                 {
                     result.add(str);
